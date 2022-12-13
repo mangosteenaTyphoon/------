@@ -1,0 +1,10 @@
+.back{
+    background: url("index.png") no-repeat;
+    height: 500px;
+    width: 500px;
+    background-color: rgb(0,0,0,.3);
+    background-attachment: fixed;
+    margin: 0 auto;
+    border-radius: 50%;
+    box-shadow: 10px 10px teal ;
+}
